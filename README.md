@@ -13,4 +13,7 @@ We have sniffed an unsecured network and found numbers that are used to encrypt 
 
 ![image](https://github.com/richie-omondi/RSA-Factoring-Challenge/assets/69873039/698174a2-702d-4894-84b4-4cf920bf08f6)
 
+## rsa
+
+![image](https://github.com/richie-omondi/RSA-Factoring-Challenge/assets/69873039/25555526-641b-4c8b-9fbd-0b590f1d2f0c)
 
